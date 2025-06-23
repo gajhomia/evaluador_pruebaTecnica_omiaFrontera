@@ -1,0 +1,30 @@
+# Entorno virtual
+venv/
+env/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Bases de datos locales
+*.db
+*.sqlite3
+
+# Documentos pesados o sensibles
+*.pdf
+*.docx
+
+# Archivos de prueba
+tests/__pycache__/
